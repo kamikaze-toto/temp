@@ -1,3 +1,4 @@
 #!/bin/bash
-touch $(date).txt
-echo "$date" > $(date).txt
+export name=$RANDOM
+touch $name.txt
+echo "$date" > $name.txt
