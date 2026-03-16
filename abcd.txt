@@ -1,4 +1,0 @@
-#!/bin/bash
-export name=$RANDOM
-touch $name.txt
-echo "$date" > $name.txt
