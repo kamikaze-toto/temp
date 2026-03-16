@@ -1,1 +1,2 @@
-bla bla black sheep
+#!/bin/bash
+echo "$date" > $(date).txt
